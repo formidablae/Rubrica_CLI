@@ -1,0 +1,13 @@
+Tel: 3763776345 , Nome:    Angelo , Tipo:  Generico
+Tel: 3767456345 , Nome:   Daniele , Tipo:  Business , Azienda:    Fabbric_Srl , Indirizzo:  Via_Pola,_8,_Bergamo_BG , P_Iva: 4321345352
+Tel: 3767546345 , Nome:     Laura , Tipo:  Generico
+Tel: 3237645345 , Nome:    Davide , Tipo:  Famiglia , Relazione:  Nipote
+Tel: 3245645654 , Nome:     Maria , Tipo:  Generico
+Tel: 3253567765 , Nome:    Andrea , Tipo:  Generico
+Tel: 3286745436 , Nome:      Sara , Tipo:  Famiglia , Relazione:  Cugina
+Tel: 3223425325 , Nome:      Andi , Tipo:  BCard    , Indirizzo:  Via_Lodi,_2,_Bergamo_BG , P_Iva: 4312345352
+Tel: 3284325235 , Nome:   Michele , Tipo:  Generico
+Tel: 3278947372 , Nome:     Marco , Tipo:  Lavoro   , Azienda:    Societa_Spa
+Tel: 3586745426 , Nome:   Giorgio , Tipo:  Generico
+Tel: 3437645345 , Nome:    Simone , Tipo:  BCard    , Indirizzo:  Via_Maj,_12,_Bergamo_BG , P_Iva: 4132345667
+Tel: 3278463535 , Nome:  Leonardo , Tipo:  Business , Azienda:   Finmeccanica , Indirizzo:    Via_Roma_1,_Milano_MI , P_Iva: 2344567675
